@@ -1,0 +1,24 @@
+Running on my PC
+CPU: Intel(R) Core(TM) i7-3632QM
+RAM: 8 GB
+SSD: Smartbuy 120 GB
+data2.txt processing elapsed: 36.6406182s
+data2.txt finished
+data1.txt processing elapsed: 36.6436192s
+data1.txt finished
+data3.txt processing elapsed: 36.6441193s
+data3.txt finished
+data4.txt processing elapsed: 36.6956551s
+data4.txt finished
+data0.txt processing elapsed: 36.716669s
+data0.txt finished
+aeyokxeyxk :  2
+cmxjkznzmr :  2
+ipfbdgbvcz :  2
+vmiexnbemk :  2
+eiwtfpeuzy :  2
+Repeated lines:  10
+Elapsed programm time: 37.5171979s
+End programm
+
+don't count empty lines at the end file
